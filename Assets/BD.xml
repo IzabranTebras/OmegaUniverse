@@ -1,0 +1,35 @@
+﻿<Personajes>
+	<Personaje>
+		<Nombre>Froyo</Nombre>
+		<Clan>Ninguno</Clan>
+		<Elemento>Agua</Elemento>
+		<VIT>50.0</VIT>
+		<PM>30.0</PM>
+		<PH>10.0</PH>
+		<Velocidad>30.0</Velocidad>
+		<ATQM>60.0</ATQM>
+		<ATQF>30.0</ATQF>
+		<DEFM>20.0</DEFM>
+		<DEFF>40.0</DEFF>
+		<Ataques>
+			<NombreAtaque>Hielo</NombreAtaque>
+			<NombreAtaque>Frío del universo</NombreAtaque>
+		</Ataques>
+	</Personaje>
+	<Personaje>
+		<Nombre>Cyclope</Nombre>
+		<Clan>Ninguno</Clan>
+		<Elemento>Tierra</Elemento>
+		<VIT>500.0</VIT>
+		<PM>30.0</PM>
+		<PH>10.0</PH>
+		<Velocidad>30.0</Velocidad>
+		<ATQM>60.0</ATQM>
+		<ATQF>30.0</ATQF>
+		<DEFM>20.0</DEFM>
+		<DEFF>40.0</DEFF>
+		<Ataques>
+			<NombreAtaque>Mazazo de la tierra</NombreAtaque>
+		</Ataques>
+	</Personaje>
+</Personajes>
